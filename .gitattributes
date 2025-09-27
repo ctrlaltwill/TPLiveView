@@ -1,0 +1,13 @@
+# Treat Swift files correctly
+*.swift linguist-language=Swift
+
+# Exclude build folders and Xcode-generated files
+build/** linguist-vendored
+DerivedData/** linguist-vendored
+*.xcworkspace linguist-vendored
+*.xcodeproj/** linguist-vendored
+*.playground/** linguist-vendored
+
+# Ignore JSON or config files for language stats
+*.json linguist-vendored
+*.plist linguist-vendored

@@ -14,6 +14,19 @@ TP LiveView is a macOS app that displays live TrainingPeaks ride data in a float
 
 ---
 
+## Screenshots
+
+### Compact View
+![Compact View](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/Compact%20View.png?raw=true)
+
+### Extended View
+![Extended View](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/Extended%20View.png?raw=true)
+
+### Immersive View
+![Immersive View](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/Immersive%20View.png?raw=true)
+
+---
+
 ## Installation
 
 ### From GitHub Zip

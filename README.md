@@ -31,7 +31,7 @@ TP LiveView is a macOS app that displays live TrainingPeaks ride data in a float
 
 ### From GitHub Zip
 
-1. Download the [TP-LiveView-v1.0.0-beta.zip](TP-LiveView-v1.0.0-beta.zip) file.
+1. Download the [TP-LiveView-v1.0.0-beta.zip](https://github.com/ctrlaltwill/TPLiveView/raw/main/TP-LiveView-v1.0.0-beta.zip) file.
 2. Unzip the file.
 3. Move `TP LiveView.app` to your `Applications` folder.
 4. Open the app.

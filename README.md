@@ -2,7 +2,11 @@
 
 TP LiveView is a macOS app that displays live TrainingPeaks ride data in a floating window. Keep your metrics visible while watching videos, working, or using other apps.
 
----
+Check it out in action ↓
+
+![In Action](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/In%20Action.png?raw=true)
+
+&nbsp;
 
 ## Features
 
@@ -11,8 +15,8 @@ TP LiveView is a macOS app that displays live TrainingPeaks ride data in a float
 - **Multiple views**: Compact, Extended, and Immersive.
 - **Menu bar integration** for quick switching and status updates.
 - **Settings**, set your FTP and Max HR for real-time colour changing on the graphs.
-
----
+  
+&nbsp;
 
 ## Screenshots
 
@@ -25,7 +29,7 @@ TP LiveView is a macOS app that displays live TrainingPeaks ride data in a float
 ### Immersive View
 ![Immersive View](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/Immersive%20View.png?raw=true)
 
----
+&nbsp;
 
 ## Installation
 
@@ -35,6 +39,8 @@ TP LiveView is a macOS app that displays live TrainingPeaks ride data in a float
 2. Unzip the file.
 3. Move `TP LiveView.app` to your `Applications` folder.
 4. Open the app.
+
+&nbsp;
 
 > ⚠️ **Note:** TP LiveView is built without an official Apple Developer (I am a casual developer and cannot justify paying them annually to distribute my apps), so macOS cannot verify it. The first time you open it, you may see a warning:  
 > “Apple cannot verify TP LiveView is free of malware.”  

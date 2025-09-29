@@ -39,6 +39,7 @@ Check it out in action ↓
 2. Unzip the file.
 3. Move `TP LiveView.app` to your `Applications` folder.
 4. Open the app.
+5. Use the settings dialog (from the menubar) to set save your broadcast folder, this will find the focused rider JSON file which the live data feed comes from. You can also set your preferred view and your zones which automatically generates 'red zones' based on % FTP and % MaxHR.
 
 &nbsp;
 

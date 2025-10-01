@@ -2,6 +2,8 @@
 
 TP LiveView is a macOS app that displays live TrainingPeaks ride data in a floating window. Keep your metrics visible while watching videos, working, or using other apps.
 
+This project is currently paused – I will resume development in November 2025. Planned improvements include settings for graph duration, colour coding power zones for the immersive mode combined graph, and fixing 'red zone' on the mini graphs which are not working as intended.
+
 Check it out in action ↓
 
 ![In Action](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/In%20Action.png?raw=true)
@@ -50,3 +52,4 @@ Check it out in action ↓
 > - Go to **System Settings → Privacy & Security → General**  
 > - Click **Open Anyway** for TP LiveView.  
 > - Subsequent launches will open normally.
+

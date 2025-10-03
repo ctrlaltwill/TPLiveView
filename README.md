@@ -2,8 +2,6 @@
 
 TP LiveView is a macOS app that displays live TrainingPeaks ride data in a floating window. Keep your metrics visible while watching videos, working, or using other apps.
 
-This project is currently paused – I will resume development in November 2025. Planned improvements include settings for graph duration, colour coding power zones for the immersive mode combined graph, and fixing 'red zone' on the mini graphs which are not working as intended.
-
 Check it out in action ↓
 
 ![In Action](https://github.com/ctrlaltwill/TPLiveView/blob/main/Screenshots/In%20Action.png?raw=true)
@@ -42,6 +40,15 @@ Check it out in action ↓
 3. Move `TP LiveView.app` to your `Applications` folder.
 4. Open the app.
 5. Use the settings dialog (from the menubar) to set save your broadcast folder, this will find the focused rider JSON file which the live data feed comes from. You can also set your preferred view and your zones which automatically generates 'red zones' based on % FTP and % MaxHR.
+
+&nbsp;
+
+This project is currently paused – I will resume development in November 2025. It is currently working well with two known bugs:
+
+  1. The workout duration option for the combined graph isn't currently working
+  2. Red zones are visible for cadence and elevation are currently visible on mini graphs (these should always be grey)
+
+Other than that it is working as desired with coloured zones on the combined graphs, duration settings, FTP/MaxHR settings – if you have any issues please report them.
 
 &nbsp;
 

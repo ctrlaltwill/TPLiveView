@@ -12,9 +12,9 @@ Check it out in action ↓
 
 - **Live display** of TrainingPeaks ride metrics.
 - **Floating window** that stays on top of other apps.
-- **Multiple views**: Compact, Extended, and Immersive.
+- **Multiple views**: Compact, Extended, and Immersive data views.
 - **Menu bar integration** for quick switching and status updates.
-- **Settings**, set your FTP and Max HR for real-time colour changing on the graphs.
+- **Settings**, set your FTP and Max HR for real-time colour changing on the graphs, set duration of graphs and choose your broadcast folder (to access TP data).
   
 &nbsp;
 
@@ -35,20 +35,11 @@ Check it out in action ↓
 
 ### From GitHub Zip
 
-1. Download the [TP-LiveView-v1.0.0-beta.zip](https://github.com/ctrlaltwill/TPLiveView/raw/main/TP-LiveView-v1.0.0-beta.zip) file.
+1. Download the [TP-LiveView-v1.0.2-beta.zip](https://github.com/ctrlaltwill/TPLiveView/raw/main/TP-LiveView-v1.0.2-beta.zip) file.
 2. Unzip the file.
 3. Move `TP LiveView.app` to your `Applications` folder.
 4. Open the app.
-5. Use the settings dialog (from the menubar) to set save your broadcast folder, this will find the focused rider JSON file which the live data feed comes from. You can also set your preferred view and your zones which automatically generates 'red zones' based on % FTP and % MaxHR.
-
-&nbsp;
-
-This project is currently paused – I will resume development in November 2025. It is currently working well with two known bugs:
-
-  1. The workout duration option for the combined graph isn't currently working
-  2. Red zones are visible for cadence and elevation are currently visible on mini graphs (these should always be grey)
-
-Other than that it is working as desired with coloured zones on the combined graphs, duration settings, FTP/MaxHR settings – if you have any issues please report them.
+5. Use the settings dialog (from the menubar) to set save your broadcast folder, this will find the focused rider JSON file which the live data feed comes from. You can also set your preferred view and your zones which automatically generates 'red zones' based on % FTP and % MaxHR for the mini graphs and zone-based power on the combined graph.
 
 &nbsp;
 
